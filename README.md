@@ -9,12 +9,60 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 🔭 I'm currently working on a Parking Management System (React, ASP.NET Core, MySQL, YOLOv8 license plate recognition)
-- 👯 I'm looking to collaborate on — Frontend projects using React / Tailwind CSS, or open-source tools for software testing
-- 🤝 I'm looking for help with — Best practices for React performance optimization and clean component architecture
-- 🌱 I'm currently learning — Software testing (black-box test design, EP/BVA)
-- 💬 Ask me about — React, Tailwind CSS, REST API integration, or software test case design
-- ⚡ Fun fact — I once caught a critical logic bug in production code just by reading it carefully during test case design 😄
+I'm a Frontend-focused Software Engineering student, currently building practical, well-tested web applications as part of my capstone and coursework.
+
+I enjoy turning real-world problems into clean, responsive interfaces — from integrating REST APIs to designing dashboards, data visualizations, and role-based UI flows.
+
+I'm also experienced in using AI-assisted tools such as Claude to accelerate my workflow, including requirement analysis, UML/architecture documentation, test case design, and debugging.
+
+- 🎓 Software Engineering student at FPT University
+- 💻 Focused on Frontend Development (React) with working knowledge of full-stack integration (ASP.NET Core, MySQL)
+- 🧪 Practicing Software Testing — black-box test design (EP/BVA), defect analysis
+- 🤖 Using AI-assisted workflows (Claude) to speed up documentation, testing, and debugging
+- 🧠 Always learning and improving through hands-on capstone project work
+
+### 🚀 Featured Projects
+| Project | Description | Tech Stack |
+|---|---|---|
+| **PMS_Antigravity** (Parking Management System) | Capstone project: parking facility management with roles, bookings, Smart Lock auto-unlock, and AI-based license plate recognition | React 18, Vite, Tailwind CSS, ASP.NET Core 8, MySQL, Python Flask + YOLOv8 |
+| **Todo App** | A CRUD task manager with filtering and persistent local storage | HTML, CSS, JavaScript |
+
+### 🟦 Frontend & Web Ecosystem
+| Layer | Technologies |
+|---|---|
+| Core JavaScript | ES6+, DOM, Async/Await, Modules |
+| Frontend | ReactJS, React Router, React Hooks, Component-based UI |
+| Styling | Tailwind CSS, Bootstrap, Responsive Design |
+| Backend (working knowledge) | ASP.NET Core 8, RESTful API integration |
+| Database | MySQL |
+| API & Integration | REST API, Axios, JSON, Authentication |
+| Tools & Workflow | Git, GitHub, VS Code, Postman |
+
+### 🤖 AI-Assisted Development Skills
+Experienced in using Claude to accelerate real coursework and capstone work — not just code generation, but structured technical work like documentation and test design.
+
+| Skill Area | Tools / Platforms | Applied To |
+|---|---|---|
+| AI Coding Assistant | Claude | Debugging, refactoring, code review |
+| Documentation Support | Claude | Software Design Specification (SDS), architecture write-ups |
+| Test Design Support | Claude | Black-box test case generation (EP/BVA), defect analysis |
+| Requirement Analysis | Claude | UML diagram planning, FR/NFR classification research |
+
+### 🧩 UML & Software Modeling
+| Skill Area | Diagrams / Techniques |
+|---|---|
+| UML Diagram Design | Use Case Diagram (`<<include>>`/`<<extend>>`), Package Diagram, Class Diagram |
+| System Modeling | Requirement analysis, object-oriented design for multi-module systems |
+| Documentation | Software Design Specification (SDS) authoring |
+
+### 📚 Currently Learning & Goals
+| Currently Learning | Focus Area |
+|---|---|
+| Software Testing | Black-box test design (EP/BVA), defect identification |
+| Backend Integration | Working across ASP.NET Core + React in a real capstone project |
+| System Design | Understanding scalable, maintainable architecture |
+
+**🎯 My Goal:** Become a well-rounded Frontend Developer who can also work confidently across the stack — continuing to sharpen my React skills while deepening my understanding of testing, system design, and backend integration.
 
 ## 📊 GitHub Stats & Trophies
 <table align="center">
