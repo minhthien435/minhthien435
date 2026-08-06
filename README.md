@@ -19,60 +19,60 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/minhthien435">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=minhthien435&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="minhthien435's GitHub Stats" />
+    <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api?username=minhthien435&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10&hide_title=false" alt="minhthien435's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=minhthien435&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="minhthien435's GitHub Streak" width="49%" />
+  <img height="195" src="https://streak-stats.demolab.com/?user=minhthien435&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="minhthien435's GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=minhthien435&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Lê Nguyễn Thiên Minh's GitHub Trophies" />
+  <img width="100%" src="https://trophy.ryglcloud.net/?username=minhthien435&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8&cache_seconds=86400" alt="Lê Nguyễn Thiên Minh's GitHub Trophies" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=minhthien435&theme=tokyo-night&radius=10" alt="minhthien435's Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=minhthien435&theme=tokyo-night&radius=10" alt="minhthien435's Activity Graph" />
 </p>
 
 ## 🛠️ Languages & Tools
 
-<h3 align="center">Programming Languages</h3>
+<h4 align="center">Programming Languages</h4>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
-<h3 align="center">Frontend</h3>
+<h4 align="center">Frontend</h4>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
-<h3 align="center">Backend</h3>
+<h4 align="center">Backend</h4>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 </p>
 
-<h3 align="center">Database</h3>
+<h4 align="center">Database</h4>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
-<h3 align="center">DevOps & Cloud</h3>
+<h4 align="center">DevOps & Cloud</h4>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
 </p>
 
-<h3 align="center">Tools</h3>
+<h4 align="center">Tools</h4>
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/minhthien435">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=minhthien435&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+    <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=minhthien435&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
