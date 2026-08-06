@@ -17,12 +17,18 @@
 - ⚡ Fun fact — I once caught a critical logic bug in production code just by reading it carefully during test case design 😄
 
 ## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/minhthien435">
-    <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api?username=minhthien435&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10&hide_title=false" alt="minhthien435's GitHub Stats" />
-  </a>
-  <img height="195" src="https://streak-stats.demolab.com/?user=minhthien435&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="minhthien435's GitHub Streak" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/minhthien435">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=minhthien435&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="minhthien435's GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=minhthien435&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="minhthien435's GitHub Streak" />
+    </td>
+  </tr>
+</table>
 <p align="center">
   <img width="100%" src="https://trophy.ryglcloud.net/?username=minhthien435&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8&cache_seconds=86400" alt="Lê Nguyễn Thiên Minh's GitHub Trophies" />
 </p>
