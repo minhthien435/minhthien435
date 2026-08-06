@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=L%C3%AA%20Nguy%E1%BB%85n%20Thi%C3%AAn%20Minh&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Engineering&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:000000,100:a371f7&text=L%C3%AA%20Nguy%E1%BB%85n%20Thi%C3%AAn%20Minh&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Engineering&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=minhthien435">
@@ -27,6 +27,17 @@ I'm also experienced in using AI-assisted tools such as Claude to accelerate my 
 | **PMS_Antigravity** (Parking Management System) | Capstone project: parking facility management with roles, bookings, Smart Lock auto-unlock, and AI-based license plate recognition | React 18, Vite, Tailwind CSS, ASP.NET Core 8, MySQL, Python Flask + YOLOv8 |
 | **Todo App** | A CRUD task manager with filtering and persistent local storage | HTML, CSS, JavaScript |
 
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black" alt="YOLOv8"/>
+</p>
+
 ### 🟦 Frontend & Web Ecosystem
 | Layer | Technologies |
 |---|---|
@@ -48,6 +59,14 @@ Experienced in using Claude to accelerate real coursework and capstone work — 
 | Test Design Support | Claude | Black-box test case generation (EP/BVA), defect analysis |
 | Requirement Analysis | Claude | UML diagram planning, FR/NFR classification research |
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-blueviolet?style=flat-square" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/AI_Debugging-blueviolet?style=flat-square" alt="AI Debugging"/>
+  <img src="https://img.shields.io/badge/Documentation-blueviolet?style=flat-square" alt="Documentation"/>
+  <img src="https://img.shields.io/badge/Test_Case_Design-blueviolet?style=flat-square" alt="Test Case Design"/>
+</p>
+
 ### 🧩 UML & Software Modeling
 | Skill Area | Diagrams / Techniques |
 |---|---|
@@ -55,12 +74,27 @@ Experienced in using Claude to accelerate real coursework and capstone work — 
 | System Modeling | Requirement analysis, object-oriented design for multi-module systems |
 | Documentation | Software Design Specification (SDS) authoring |
 
+<p align="center">
+  <img src="https://img.shields.io/badge/UML-blueviolet?style=flat-square" alt="UML"/>
+  <img src="https://img.shields.io/badge/Use_Case_Diagram-blueviolet?style=flat-square" alt="Use Case Diagram"/>
+  <img src="https://img.shields.io/badge/Class_Diagram-blueviolet?style=flat-square" alt="Class Diagram"/>
+  <img src="https://img.shields.io/badge/Package_Diagram-blueviolet?style=flat-square" alt="Package Diagram"/>
+  <img src="https://img.shields.io/badge/Software_Design_Specification-blueviolet?style=flat-square" alt="Software Design Specification"/>
+</p>
+
 ### 📚 Currently Learning & Goals
 | Currently Learning | Focus Area |
 |---|---|
 | Software Testing | Black-box test design (EP/BVA), defect identification |
 | Backend Integration | Working across ASP.NET Core + React in a real capstone project |
 | System Design | Understanding scalable, maintainable architecture |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Software_Testing-blueviolet?style=flat-square" alt="Software Testing"/>
+  <img src="https://img.shields.io/badge/EP%2FBVA-blueviolet?style=flat-square" alt="EP/BVA"/>
+  <img src="https://img.shields.io/badge/Backend_Integration-blueviolet?style=flat-square" alt="Backend Integration"/>
+  <img src="https://img.shields.io/badge/System_Design-blueviolet?style=flat-square" alt="System Design"/>
+</p>
 
 **🎯 My Goal:** Become a well-rounded Frontend Developer who can also work confidently across the stack — continuing to sharpen my React skills while deepening my understanding of testing, system design, and backend integration.
 
@@ -85,39 +119,17 @@ Experienced in using Claude to accelerate real coursework and capstone work — 
 </p>
 
 ## 🛠️ Languages & Tools
-
-<h4 align="center">Programming Languages</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
-
-<h4 align="center">Frontend</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-</p>
-
-<h4 align="center">Backend</h4>
-<p align="center">
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-</p>
-
-<h4 align="center">Database</h4>
-<p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
-
-<h4 align="center">DevOps & Cloud</h4>
-<p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-</p>
-
-<h4 align="center">Tools</h4>
-<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
