@@ -106,12 +106,12 @@ Experienced in using Claude to accelerate real coursework and capstone work — 
     </td>
   </tr>
 </table>
-<p align="center">
+<!-- <p align="center">
   <img width="100%" src="https://trophy.ryglcloud.net/?username=minhthien435&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8&cache_seconds=86400" alt="Lê Nguyễn Thiên Minh's GitHub Trophies" />
 </p>
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=minhthien435&theme=tokyo-night&radius=10" alt="minhthien435's Activity Graph" />
-</p>
+</p> -->
 
 ## 🛠️ Teck Stacks
 <p align="center">
