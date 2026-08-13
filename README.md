@@ -44,44 +44,11 @@ I'm also experienced in using AI-assisted tools such as Claude to accelerate my 
 | API & Integration | REST API, Axios, JSON, Authentication |
 | Tools & Workflow | Git, GitHub, VS Code, Postman |
 
-### 🤖 AI-Assisted Development Skills
-Experienced in using Claude to accelerate real coursework and capstone work — not just code generation, but structured technical work like documentation and test design.
-
-| Skill Area | Tools / Platforms | Applied To |
-|---|---|---|
-| AI Coding Assistant | Claude | Debugging, refactoring, code review |
-| Documentation Support | Claude | Software Design Specification (SDS), architecture write-ups |
-| Test Design Support | Claude | Black-box test case generation (EP/BVA), defect analysis |
-| Requirement Analysis | Claude | UML diagram planning, FR/NFR classification research |
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-blueviolet?style=flat-square" alt="Prompt Engineering"/>
-  <img src="https://img.shields.io/badge/AI_Debugging-blueviolet?style=flat-square" alt="AI Debugging"/>
-  <img src="https://img.shields.io/badge/Documentation-blueviolet?style=flat-square" alt="Documentation"/>
-  <img src="https://img.shields.io/badge/Test_Case_Design-blueviolet?style=flat-square" alt="Test Case Design"/>
-</p>
-
-### 🧩 UML & Software Modeling
-| Skill Area | Diagrams / Techniques |
-|---|---|
-| UML Diagram Design | Use Case Diagram (`<<include>>`/`<<extend>>`), Package Diagram, Class Diagram |
-| System Modeling | Requirement analysis, object-oriented design for multi-module systems |
-| Documentation | Software Design Specification (SDS) authoring |
-
-<p align="center">
-  <img src="https://img.shields.io/badge/UML-blueviolet?style=flat-square" alt="UML"/>
-  <img src="https://img.shields.io/badge/Use_Case_Diagram-blueviolet?style=flat-square" alt="Use Case Diagram"/>
-  <img src="https://img.shields.io/badge/Class_Diagram-blueviolet?style=flat-square" alt="Class Diagram"/>
-  <img src="https://img.shields.io/badge/Package_Diagram-blueviolet?style=flat-square" alt="Package Diagram"/>
-  <img src="https://img.shields.io/badge/Software_Design_Specification-blueviolet?style=flat-square" alt="Software Design Specification"/>
-</p>
-
 ### 📚 Currently Learning & Goals
 | Currently Learning | Focus Area |
 |---|---|
 | Software Testing | Black-box test design (EP/BVA), defect identification |
-| Backend Integration | Working across ASP.NET Core + React in a real capstone project |
+| Backend Integration | Working across ExpressJS + React in a real capstone project |
 | System Design | Understanding scalable, maintainable architecture |
 
 <p align="center">
